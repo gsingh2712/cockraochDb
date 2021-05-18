@@ -18,8 +18,9 @@ Cockroach DB Docs
     * Low Read and Write in MultiRegion https://www.cockroachlabs.com/docs/v21.1/demo-low-latency-multi-region-deployment.html 
     * Topology Patterns https://www.cockroachlabs.com/docs/v20.2/topology-patterns.html 
     * Geo Partitioned Topology https://www.cockroachlabs.com/docs/v20.2/topology-geo-partitioned-replicas.html 
+    * Inverted Indexes https://www.cockroachlabs.com/docs/v20.2/inverted-indexes.html (Almost like elastic search  reverse index document search thing.)
 
 
 * CockRoach DB Security (Low Priority)
     * https://www.cockroachlabs.com/docs/v20.2/security-overview.html 
-    * Read all Underlying Concepts Authentication , Encryption, Authorization, Audit 
+    * Read all Underlying Concepts Authentication , Encryption, Authorization, Audit
